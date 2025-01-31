@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 
 ![Image](https://github.com/user-attachments/assets/e3d399af-ae2c-41ad-9512-0b851f72a460)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/gitaehee/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitaehee&show_icons=true&theme=radical)
+
+</div>
