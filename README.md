@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/gitaehee/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitaehee&show_icons=true&theme=radical)
-
 <p><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitaehee&theme=2077&exclude=html" alt="gitaehee" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitaehee&show_icons=true&theme=radical)
 
 <p><img height="200" src="http://mazassumnida.wtf/api/generate_badge?boj=ehhee" alt="gitaehee" /></p>
 
