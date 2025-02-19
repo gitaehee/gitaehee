@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <p><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitaehee&theme=2077&exclude=html" alt="gitaehee" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gitaehee)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitaehee&show_icons=true&theme=radical)
 
 <p><img height="200" src="http://mazassumnida.wtf/api/generate_badge?boj=ehhee" alt="gitaehee" /></p>
